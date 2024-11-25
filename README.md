@@ -2,7 +2,7 @@
 ![image (11)](https://github.com/user-attachments/assets/82421cfc-5404-4ca1-b7e2-a94de61ced0f)
 
 # Our telegram channel / bot
-https://t.me/diddybomber
+https://diddy.pw/
 
 # Features
 - Bomb Email [Send out 25k+ Emails]
